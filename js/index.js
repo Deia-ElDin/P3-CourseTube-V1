@@ -206,13 +206,6 @@ function coursesArray(objectName) {
       'HTML & CSS Full Course - Beginner to Pro (2022)',
       '208K views &bull; 2 months ago',
     ],
-       [
-      'whatever',
-      'https://www.youtube.com/watch?v=G3e-cpL7ofc&t=20973s',
-      '4:00:00',
-      'ALI',
-      '208K views &bull; 2 months ago',
-    ],
   ];
 
   switch (objectName) {
